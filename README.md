@@ -1,1 +1,1 @@
-this a dev build of skire slotted. aka an aimbot script
+this is really wip so some will features wont work or be buggy
